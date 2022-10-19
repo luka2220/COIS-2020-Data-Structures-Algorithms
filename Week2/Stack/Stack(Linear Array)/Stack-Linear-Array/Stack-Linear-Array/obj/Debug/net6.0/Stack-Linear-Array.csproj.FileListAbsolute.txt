@@ -1,0 +1,15 @@
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\bin\Debug\net6.0\Stack-Linear-Array.exe
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\bin\Debug\net6.0\Stack-Linear-Array.deps.json
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\bin\Debug\net6.0\Stack-Linear-Array.runtimeconfig.json
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\bin\Debug\net6.0\Stack-Linear-Array.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\bin\Debug\net6.0\Stack-Linear-Array.pdb
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\obj\Debug\net6.0\Stack-Linear-Array.csproj.AssemblyReference.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\obj\Debug\net6.0\Stack-Linear-Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\obj\Debug\net6.0\Stack-Linear-Array.AssemblyInfoInputs.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\obj\Debug\net6.0\Stack-Linear-Array.AssemblyInfo.cs
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\obj\Debug\net6.0\Stack-Linear-Array.csproj.CoreCompileInputs.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\obj\Debug\net6.0\Stack-Linear-Array.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\obj\Debug\net6.0\refint\Stack-Linear-Array.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\obj\Debug\net6.0\Stack-Linear-Array.pdb
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\obj\Debug\net6.0\Stack-Linear-Array.genruntimeconfig.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Stack(Linear Array)\Stack-Linear-Array\Stack-Linear-Array\obj\Debug\net6.0\ref\Stack-Linear-Array.dll

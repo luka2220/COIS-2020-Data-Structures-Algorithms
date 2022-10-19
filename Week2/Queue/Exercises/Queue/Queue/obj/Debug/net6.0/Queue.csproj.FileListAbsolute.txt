@@ -1,0 +1,15 @@
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\bin\Debug\net6.0\Queue.exe
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\bin\Debug\net6.0\Queue.deps.json
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\bin\Debug\net6.0\Queue.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\bin\Debug\net6.0\Queue.pdb
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.csproj.AssemblyReference.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\obj\Debug\net6.0\refint\Queue.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.pdb
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Queue\Exercises\Queue\Queue\obj\Debug\net6.0\ref\Queue.dll

@@ -1,0 +1,15 @@
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\bin\Debug\net6.0\Assignment1-PartB.exe
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\bin\Debug\net6.0\Assignment1-PartB.deps.json
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\bin\Debug\net6.0\Assignment1-PartB.runtimeconfig.json
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\bin\Debug\net6.0\Assignment1-PartB.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\bin\Debug\net6.0\Assignment1-PartB.pdb
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\obj\Debug\net6.0\Assignment1-PartB.csproj.AssemblyReference.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\obj\Debug\net6.0\Assignment1-PartB.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\obj\Debug\net6.0\Assignment1-PartB.AssemblyInfoInputs.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\obj\Debug\net6.0\Assignment1-PartB.AssemblyInfo.cs
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\obj\Debug\net6.0\Assignment1-PartB.csproj.CoreCompileInputs.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\obj\Debug\net6.0\Assignment1-PartB.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\obj\Debug\net6.0\refint\Assignment1-PartB.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\obj\Debug\net6.0\Assignment1-PartB.pdb
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\obj\Debug\net6.0\Assignment1-PartB.genruntimeconfig.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Assignments\Assignment 1\code\Assignment1-PartB\Assignment1-PartB\obj\Debug\net6.0\ref\Assignment1-PartB.dll

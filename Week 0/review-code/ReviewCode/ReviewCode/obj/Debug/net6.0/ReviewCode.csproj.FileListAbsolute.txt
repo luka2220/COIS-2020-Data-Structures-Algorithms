@@ -1,0 +1,15 @@
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\bin\Debug\net6.0\ReviewCode.exe
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\bin\Debug\net6.0\ReviewCode.deps.json
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\bin\Debug\net6.0\ReviewCode.runtimeconfig.json
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\bin\Debug\net6.0\ReviewCode.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\bin\Debug\net6.0\ref\ReviewCode.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\bin\Debug\net6.0\ReviewCode.pdb
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\obj\Debug\net6.0\ReviewCode.csproj.AssemblyReference.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\obj\Debug\net6.0\ReviewCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\obj\Debug\net6.0\ReviewCode.AssemblyInfoInputs.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\obj\Debug\net6.0\ReviewCode.AssemblyInfo.cs
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\obj\Debug\net6.0\ReviewCode.csproj.CoreCompileInputs.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\obj\Debug\net6.0\ReviewCode.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\obj\Debug\net6.0\ref\ReviewCode.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\obj\Debug\net6.0\ReviewCode.pdb
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week 0\review-code\ReviewCode\ReviewCode\obj\Debug\net6.0\ReviewCode.genruntimeconfig.cache

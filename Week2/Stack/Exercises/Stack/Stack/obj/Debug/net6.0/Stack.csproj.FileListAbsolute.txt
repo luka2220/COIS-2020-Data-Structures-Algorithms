@@ -1,0 +1,15 @@
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\bin\Debug\net6.0\Stack.exe
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\bin\Debug\net6.0\Stack.deps.json
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\bin\Debug\net6.0\Stack.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\bin\Debug\net6.0\Stack.pdb
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\obj\Debug\net6.0\Stack.csproj.AssemblyReference.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\obj\Debug\net6.0\Stack.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\obj\Debug\net6.0\refint\Stack.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\obj\Debug\net6.0\Stack.pdb
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week2\Stack\Exercises\Stack\Stack\obj\Debug\net6.0\ref\Stack.dll
