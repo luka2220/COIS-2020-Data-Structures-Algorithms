@@ -18,7 +18,7 @@ hiding, the course challenges you to carefully consider which data structures an
 
 ### Part I 
 Week 0<br>
-Thursday, September 8:  Encapsulation (classes, data members, and methods), information hiding(access modifiers) <br>
+Thursday, September 8:  Encapsulation (classes, data members, and methods), information hiding(access modifiers)<br>
 Week 1<br>
 Tuesday, September 13: Inheritence (virtual methods, interfaces, and the object class), dynamic binding<br>
 Thursday, September 15: Fundamental data structures (arrays and linked lists)<br>
@@ -34,33 +34,33 @@ Tuesday, October 4:  List (linked list)<br>
 ### Part III
 Thursday, October 6:  Closed Hash Table (array), hash function, linear/quadratic probing<br>
 Week 5 <br>
-Tuesday, October 11: Closed Hash Table (con't) and Open Hash table (array plus linked list)
-Thursday, October 13:  Open Hash Table (con't)
-Sunday, October 16:  Assignment 1 due by 23:59 ET
-Week 6
-Tuesday, October 18:  Review for Test 1
-Thursday, October 20:  Test 1
-Reading Break
-Monday, October 24 - Friday, October 28
-Week 7
-Tuesday, November 1:  Binary Tree and Priority Queue (binary heap)
-Thursday, November 3:  Priority Queue (con't)
-Part IV
-Week 8
-Tuesday, November 8:  Binary Search Tree and Binary Tree Traversals
-Thursday, November 10: Binary Search Tree (con't)
-Sunday, November 14:  Assignment 2 due by 23:59 ET
-Week 9
-Tuesday, November 15:  Review for Test 2
-Thursday, November 17:  Test 2
-Week 10
-Tuesday, November 22:  AVL Tree (balanced binary search tree)
-Thursday, November 24:  AVL Tree (con't)
-Week 11
-Tuesday, November 29: Splay Tree (amortized binary search tree)
-Thursday, December 1:  Splay Tree (con't)
-Week 12
-Tuesday, December 6:  Review for Test 3
-Wednesday, December 7: Assignment 3 due by 23:59 ET
-Examination Period
-December 9 - December 22:  Test 3
+Tuesday, October 11: Closed Hash Table (con't) and Open Hash table (array plus linked list)<br>
+Thursday, October 13:  Open Hash Table (con't)<br>
+Sunday, October 16:  Assignment 1 due by 23:59 ET<br>
+Week 6<br>
+Tuesday, October 18:  Review for Test 1<br>
+Thursday, October 20:  Test 1<br>
+Reading Break<br>
+Monday, October 24 - Friday, October 28<br>
+Week 7<br>
+Tuesday, November 1:  Binary Tree and Priority Queue (binary heap)<br>
+Thursday, November 3:  Priority Queue (con't)<br>
+### Part IV
+Week 8<br>
+Tuesday, November 8:  Binary Search Tree and Binary Tree Traversals<br>
+Thursday, November 10: Binary Search Tree (con't)<br>
+Sunday, November 14:  Assignment 2 due by 23:59 ET<br>
+Week 9<br>
+Tuesday, November 15:  Review for Test 2<br>
+Thursday, November 17:  Test 2<br>
+Week 10<br>
+Tuesday, November 22:  AVL Tree (balanced binary search tree)<br>
+Thursday, November 24:  AVL Tree (con't)<br>
+Week 11<br>
+Tuesday, November 29: Splay Tree (amortized binary search tree)<br>
+Thursday, December 1:  Splay Tree (con't)<br>
+Week 12<br>
+Tuesday, December 6:  Review for Test 3<br>
+Wednesday, December 7: Assignment 3 due by 23:59 ET<br>
+Examination Period<br>
+December 9 - December 22:  Test 3<br>
