@@ -16,27 +16,24 @@ hiding, the course challenges you to carefully consider which data structures an
 - Part III:  Closed Hash Tables, Open Hash Tables, and Priority Queues
 - Part IV:  Binary Trees, Binary Search Trees, AVL Trees, and Splay Trees
 
-## Course Content
-Part I <br>
-Week 0
-Thursday, September 8:  Encapsulation (classes, data members, and methods), information hiding
-(access modifiers)
-Week 1
-Tuesday, September 13: Inheritence (virtual methods, interfaces, and the object class), dynamic
-binding
-Thursday, September 15: Fundamental data structures (arrays and linked lists)
-Part II
-Week 2
-Tuesday, September 20:  Stack (array)
-Thursday, September 22:  Stack (linked list) and Queue (linked list)
-Week 3
-Tuesday, September 27:  Queue (circular array)
-Thursday, September 29:  List (array)
-Week 4
-Tuesday, October 4:  List (linked list)
-Part III
-Thursday, October 6:  Closed Hash Table (array), hash function, linear/quadratic probing
-Week 5
+### Part I 
+Week 0<br>
+Thursday, September 8:  Encapsulation (classes, data members, and methods), information hiding(access modifiers) <br>
+Week 1<br>
+Tuesday, September 13: Inheritence (virtual methods, interfaces, and the object class), dynamic binding<br>
+Thursday, September 15: Fundamental data structures (arrays and linked lists)<br>
+### Part II
+Week 2<br>
+Tuesday, September 20:  Stack (array)<br>
+Thursday, September 22:  Stack (linked list) and Queue (linked list)<br>
+Week 3<br>
+Tuesday, September 27:  Queue (circular array)<br>
+Thursday, September 29:  List (array)<br>
+Week 4<br>
+Tuesday, October 4:  List (linked list)<br>
+### Part III
+Thursday, October 6:  Closed Hash Table (array), hash function, linear/quadratic probing<br>
+Week 5 <br>
 Tuesday, October 11: Closed Hash Table (con't) and Open Hash table (array plus linked list)
 Thursday, October 13:  Open Hash Table (con't)
 Sunday, October 16:  Assignment 1 due by 23:59 ET
