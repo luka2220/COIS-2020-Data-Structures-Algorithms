@@ -17,7 +17,7 @@ hiding, the course challenges you to carefully consider which data structures an
 - Part IV:  Binary Trees, Binary Search Trees, AVL Trees, and Splay Trees
 
 ## Course Content
-Part I
+Part I <br>
 Week 0
 Thursday, September 8:  Encapsulation (classes, data members, and methods), information hiding
 (access modifiers)
