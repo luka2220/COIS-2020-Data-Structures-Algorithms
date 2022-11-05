@@ -8,7 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Luka Piplica\\.nuget\\packages\\": {}
+    "C:\\Users\\Luka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,19 +16,18 @@
       "projectUniqueName": "D:\\school\\Computer Science\\Semesters\\2022 Fall\\COIS-2020 Data Structures Algorithms\\Week2\\Queue\\Exercises\\Queue\\Queue\\Queue.csproj",
       "projectName": "Queue",
       "projectPath": "D:\\school\\Computer Science\\Semesters\\2022 Fall\\COIS-2020 Data Structures Algorithms\\Week2\\Queue\\Exercises\\Queue\\Queue\\Queue.csproj",
-      "packagesPath": "C:\\Users\\Luka Piplica\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Luka\\.nuget\\packages\\",
       "outputPath": "D:\\school\\Computer Science\\Semesters\\2022 Fall\\COIS-2020 Data Structures Algorithms\\Week2\\Queue\\Exercises\\Queue\\Queue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Luka Piplica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Luka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net6.0": {
@@ -61,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
