@@ -1,0 +1,15 @@
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\obj\Debug\net6.0\List-Array.csproj.AssemblyReference.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\obj\Debug\net6.0\List-Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\obj\Debug\net6.0\List-Array.AssemblyInfoInputs.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\obj\Debug\net6.0\List-Array.AssemblyInfo.cs
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\obj\Debug\net6.0\List-Array.csproj.CoreCompileInputs.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\bin\Debug\net6.0\List-Array.exe
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\bin\Debug\net6.0\List-Array.deps.json
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\bin\Debug\net6.0\List-Array.runtimeconfig.json
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\bin\Debug\net6.0\List-Array.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\bin\Debug\net6.0\List-Array.pdb
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\obj\Debug\net6.0\List-Array.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\obj\Debug\net6.0\refint\List-Array.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\obj\Debug\net6.0\List-Array.pdb
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\obj\Debug\net6.0\List-Array.genruntimeconfig.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\List-Array\List-Array\obj\Debug\net6.0\ref\List-Array.dll
