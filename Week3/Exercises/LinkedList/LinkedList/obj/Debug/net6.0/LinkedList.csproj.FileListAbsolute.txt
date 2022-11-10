@@ -1,0 +1,15 @@
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\bin\Debug\net6.0\LinkedList.exe
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\bin\Debug\net6.0\LinkedList.deps.json
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\bin\Debug\net6.0\LinkedList.runtimeconfig.json
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\bin\Debug\net6.0\LinkedList.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\bin\Debug\net6.0\LinkedList.pdb
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.csproj.AssemblyReference.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfoInputs.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfo.cs
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.csproj.CoreCompileInputs.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\obj\Debug\net6.0\refint\LinkedList.dll
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.pdb
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.genruntimeconfig.cache
+D:\school\Computer Science\Semesters\2022 Fall\COIS-2020 Data Structures Algorithms\Week3\Exercises\LinkedList\LinkedList\obj\Debug\net6.0\ref\LinkedList.dll
